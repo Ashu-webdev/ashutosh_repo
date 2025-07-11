@@ -1,0 +1,32 @@
+.team-container {
+  padding: 30px;
+  background-color: #fff8e1;
+  border-radius: 12px;
+  max-width: 600px;
+  margin: 40px auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color: #f9a825;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+h3 {
+  color: #fbc02d;
+  margin-top: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+}
+
+li {
+  font-size: 1.1rem;
+  margin: 8px 0;
+}
